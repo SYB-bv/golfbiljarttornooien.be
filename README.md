@@ -1,1 +1,1 @@
-# golfbiljarttoernooien.be
+# golfbiljarttornooien.be
